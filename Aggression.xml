@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aggression xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Aggression.xsd">
+	<aggressionID>12345</aggressionID>
+	<reporttype>Aggression Report</reporttype>
+	<reportdescription>24 year old female suffered bruises on left side of face.</reportdescription>
+	<location>Crofton, MD</location>
+	<photo>/aggression.gif</photo>
+	<statusID xlink:type="simple" xlink:href="Status.xml#1">
+	</statusID>
+	<userID xlink:type="simple" xlink:href="User.xml#1">
+	</userID>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</aggression>

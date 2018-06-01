@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<status>
+	<statusID id="statusID">12345</statusID>
+	<statusDescription>The status of the report is closed.</statusDescription>
+</status>

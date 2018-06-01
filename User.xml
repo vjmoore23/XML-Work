@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+	<userID id="userID">12345</userID>
+	<userName>username</userName>
+	<password>loginPassword</password>
+	<firstname>Vanessa</firstname>
+	<middlename>Jane</middlename>
+	<lastname>Moore</lastname>
+	<email>vjmoore23@hotmail.com</email>
+	<dob>1984-12-10</dob>
+	<gender>F</gender>
+	<profile_photo>/photo.gif</profile_photo>
+	<home_phone>703-431-0244</home_phone>
+	<cell_phone>703-431-0244</cell_phone>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</user>

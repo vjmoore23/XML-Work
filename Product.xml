@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<productID id = "productID">12345</productID>
+	<productName>Car</productName>
+	<productDescription>Stolen 2014 Toyota Camry.</productDescription>
+	<contact>John Doe</contact>
+	<price>15000.00</price>
+	<location>Eldersburg, MD</location>
+	<photo>/car.gif</photo>
+	<statusID>
+		<ref:status ref = "statusID"/>
+	</statusID>
+	<conditionID>
+		<ref:condition ref = "conditionID"/>
+	</conditionID>
+	<userID>
+		<ref:user ref = "userID"/>
+	</userID>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</product>

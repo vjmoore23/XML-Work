@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review>
+	<reviewID id="reviewID">12345</reviewID>
+	<reviewDescription>The user provided accurate details.</reviewDescription>
+	<star>5.00</star>
+	<userID>
+		<ref:user ref = "userID"/>
+	</userID>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</review>

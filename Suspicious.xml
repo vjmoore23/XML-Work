@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suspicion>
+	<suspicionID id = "suspicionID">12345</suspicionID>
+	<reporttype>Suspicious Person Report</reporttype>
+	<reportdescription>Suspicious person walking around bank at closing time.</reportdescription>
+	<location>Laurel, MD</location>
+	<photo>/suspicious.gif</photo>
+	<statusID>
+		<ref:status ref = "statusID"/>
+	</statusID>
+	<userID>
+		<ref:user ref = "userID"/>
+	</userID>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</suspicion>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<condition>
+	<conditionID id = "conditionID">12345</conditionID>
+	<conditionDescription>The condition of the product is brand new.</conditionDescription>
+</condition>

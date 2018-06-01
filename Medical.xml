@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medical>
+	<medicalID id = "medicalID">12345</medicalID>
+	<reporttype>Medical Report</reporttype>
+	<reportdescription>Victim suffered broken arm and head injury from car crash.</reportdescription>
+	<location>Annapolis, MD</location>
+	<photo>/medical.gif</photo>
+	<statusID>
+		<ref:status ref = "statusID"/>
+	</statusID>
+	<userID>
+		<ref:user ref = "userID"/>
+	</userID>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</medical>

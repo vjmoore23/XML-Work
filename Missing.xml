@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<missing>
+	<missingID id = "missingID">12345</missingID>
+	<reporttype>Missing Person Report</reporttype>
+	<reportdescription>51 year old white male missing since 11/24/2017.</reportdescription>
+	<contact>Detective Karl Johnson 703-555-0234 ext.2</contact>
+	<reward>2000.00</reward>
+	<location>Bowie, MD</location>
+	<photo>/missing.gif</photo>
+	<statusID>
+		<ref:status ref = "statusID"/>
+	</statusID>
+	<userID>
+		<ref:user ref = "userID"/>
+	</userID>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</missing>

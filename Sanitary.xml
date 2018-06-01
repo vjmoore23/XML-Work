@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sanitary>
+	<sanitaryID id = "sanitaryID">12345</sanitaryID>
+	<reporttype>Sanitary Report</reporttype>
+	<reportdescription>Crime scene was clean.</reportdescription>
+	<location>Gambrils, MD</location>
+	<photo>/scene.gif</photo>
+	<statusID>
+		<ref:status ref = "statusID"/>
+	</statusID>
+	<userID>
+		<ref:user ref = "userID"/>
+	</userID>
+	<created_date timestamp="">2017-11-25T15:28:00</created_date>
+</sanitary>
